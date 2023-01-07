@@ -1,0 +1,19 @@
+[build-system]
+requires = [
+    "setuptools",
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "compgraph"
+description = "computational graph, MapReduce"
+version = "420.69"
+authors = [
+    { name = "Hayk Manukyan", email = "pmi.manukyan@gmail.com" }
+]
+dependencies = [
+    "click"
+]
+
+[tool.setuptools]
+py-modules = []
