@@ -20,6 +20,6 @@ Example of running all tests
 
 You can get acquainted with some examples of using CompGraph in the `examples` folder, where we tested a few real solutions
 
-    $ python3 examples/run_word_count.py resources/text_corpus.txt resources/output.txt
+    $ python3 examples/run_word_count.py resources/road_graph_data.txt resources/output.txt
 
 To use the script above, you need to extract `resources/extract_me.tgz`
